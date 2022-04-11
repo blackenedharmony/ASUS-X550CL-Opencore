@@ -2,8 +2,8 @@
 Full EFI folder without the recovery images to get MacOS Monterey working on the ASUS X550CL/552C.
 
 ## Broken
-Wi-Fi
-As far as i can tell, hardware acceleration is not working.
+- Wi-Fi
+- As far as i can tell, hardware acceleration is not working.
 
 ## Working
 Most things, test it out and see for yourself.
