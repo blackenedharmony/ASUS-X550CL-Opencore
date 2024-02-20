@@ -1,3 +1,6 @@
+# UPDATE: This is no longer maintained!
+As you can tell, I haven't updated this EFI in a while. That's because I sold my ASUS X550CL last year. 
+
 # ASUS-X550CL-Opencore
 Full EFI folder without the recovery images to get MacOS Monterey working on the ASUS X550CL/552C.
 
